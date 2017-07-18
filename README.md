@@ -1,6 +1,10 @@
 # Project-Files
 
-Practical Study and Experimentation of WiFi Security Protocols: 
+1. Comparision of Energy Efficiency of YouTube Video Streaming (Done at Aalto University)
+
+2. Experimentation with Linux TCP versions to understand Congestion Control Mechanisms (Done at Aalto University)
+
+3. Practical Study and Experimentation of WiFi Security Protocols (Done at NTNU University) 
   
 The project includs the following work: 
   
